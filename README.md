@@ -1,4 +1,4 @@
-# Good-reads-ecommender
+# Good-reads-recommender
 ## Recommendation systems (Content-based and collaborative filtering)
 
 ### In the notebook there are 3 implementations for recommendation systems:
